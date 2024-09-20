@@ -1,0 +1,4 @@
+2024-09-20 00:12:48,637 - ERROR - Error al descargar la lista de reproducción: HTTP Error 404: Not Found
+2024-09-20 00:12:56,889 - ERROR - Error al descargar la lista de reproducción: HTTP Error 404: Not Found
+2024-09-20 00:15:55,388 - ERROR - Error al descargar el audio del video 'Salió El Sol': get_throttling_function_name: could not find match for multiple
+2024-09-20 00:16:01,779 - ERROR - Error al descargar el audio del video 'Tego Calderon - Pa' Que Retozen (Pa que se lo gozen) & Metele Sazon (Official Videos HD) Reggaeton': get_throttling_function_name: could not find match for multiple
